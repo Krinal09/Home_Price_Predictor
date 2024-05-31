@@ -1,0 +1,8 @@
+body{
+    background-image: url('/static/img/house.jpg');
+    padding: auto;
+}
+
+.card{
+    background-color: antiquewhite;
+}
